@@ -9,4 +9,4 @@ Hi, I'm Clarice! I'm a 2nd year industrial engineering student attending at T.I.
 
 Since this is the last meeting for this year, and probably the last time I'll be editing my read me, have a Merry Christmas and a Happy New Year!
 
-![Alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW01cG42MzRybDVubWtsZXJzeXJ5MjJjOHhkZjE0eDZtNDZlazU5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrvT7O29X0GI1PeQch/giphy.gif)
+![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGQ1cmdicW41ZGlrazVqbHJ2N2RpNW9kbTVvZG1hZWhlbndhdjk1cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YkgfV1snXDhqjk9Tx9/giphy.gif)

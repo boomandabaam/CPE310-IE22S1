@@ -6,7 +6,7 @@ Hi, I'm Clarice! I'm a 2nd year industrial engineering student attending at T.I.
 
 <img width="1190" height="661" alt="image" src="https://github.com/user-attachments/assets/5d6daeea-3407-4806-a57f-189dcb12a2b1" />
 
+# EXPECTATION
+I'm not new to coding, I took ITE 001A last semester, we used C++ and it was challenging for almost all of us, but in the end, we all had fun with our own struggles and how we mde our own efforts to survive the class. For this course, I'm hoping to add some new programming skills and use them well in my field. Us industrial engineerings handle data, that's not new and we need to be able to analyze them, give meaning to them, and know how and when to use them. I'm really looking forward on how this course is going to widen my skills in programming, decision making skills and of course being able to adapt and survive the class. My ITE 001 class was really fun for me, so I expect the same for this class. I hope we can all pick up soome new skills while having some fun! And since this is the last meeting for this year, and probably the last time I'll be editing my read me, have a Merry Christmas and a Happy New Year! (I'd probably remove the holidays part next year, if and when I remember to do it, lol).
 
-Since this is the last meeting for this year, and probably the last time I'll be editing my read me, have a Merry Christmas and a Happy New Year!
-
-![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGQ1cmdicW41ZGlrazVqbHJ2N2RpNW9kbTVvZG1hZWhlbndhdjk1cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YkgfV1snXDhqjk9Tx9/giphy.gif)
+![Alt text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhyenV3b295NHp3ZGhtdHg5aHZjYnZibTllY2R4NnhwZnhhNzl2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FLeFK9dfmg6xq12/giphy.gif)
